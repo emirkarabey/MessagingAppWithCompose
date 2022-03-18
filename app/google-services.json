@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735536671608",
+    "project_id": "messageappwithcompose",
+    "storage_bucket": "messageappwithcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735536671608:android:e09e66da5ba8d35639768d",
+        "android_client_info": {
+          "package_name": "com.example.messagingappwithcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735536671608-54ksov6t2l9fruspmq9005viunu965bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywOPwwvMghoYKBftwlmW13_9tATtIUHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735536671608-54ksov6t2l9fruspmq9005viunu965bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
